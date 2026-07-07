@@ -1,0 +1,12 @@
+# Java build artifacts
+*.class
+
+# IDE files
+.vscode/
+*.iml
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
